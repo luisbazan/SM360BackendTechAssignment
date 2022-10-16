@@ -1,0 +1,6 @@
+
+server:
+  servlet:
+    context-path: /api/v1
+config:
+  tier-limit: 2
